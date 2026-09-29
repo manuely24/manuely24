@@ -8,9 +8,12 @@ Desarrollador Front-End orientado a la creación de interfaces web modernas, lim
 
 ---
 
-### 🌐 Contacto Directo
+### 🌐 Contacto & Hoja de Vida
 
 <p>
+  <a href="https://drive.google.com/file/d/1LV9i5yc8Le25SsgCzLoGbdvnDD7WcmDK/view" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Hoja_de_Vida-CV-007ACC?style=for-the-badge&logo=google-drive&logoColor=white" alt="Hoja de Vida" />
+  </a>
   <a href="mailto:gonalemanuel62@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-gonalemanuel62%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -38,6 +41,13 @@ Sitio web oficial interactivo para presentar mis proyectos, habilidades técnica
 * **Tecnologías:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 * 🌐 **Sitio Web Oficial:** [manuely24.github.io/PORTAFOLIO](https://manuely24.github.io/PORTAFOLIO/)
 * 🔗 **Ver Repositorio:** [github.com/manuely24/PORTAFOLIO](https://github.com/manuely24/PORTAFOLIO)
+
+---
+
+### 📄 Hoja de Vida / Curriculum Vitae
+
+📄 Puedes consultar o descargar mi Hoja de Vida completa en formato PDF desde el siguiente enlace:  
+👉 **[Ver Hoja de Vida en Google Drive](https://drive.google.com/file/d/1LV9i5yc8Le25SsgCzLoGbdvnDD7WcmDK/view)**
 
 ---
 
